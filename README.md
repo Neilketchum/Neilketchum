@@ -3,7 +3,7 @@
 ### 🚀 About Me
 I'm a **Graduate Student** pursuing an **MSc in Computer Science** at *California State University, East Bay*. With a strong **software engineering** background, I've worked at **Dell Technologies, Kapture CRM, and Nomura Research Institute**. My expertise spans **full-stack development**, **cloud computing**, and **AI/ML**.
 
-- 🔭 Currently building **Jobs.ai** – an AI-powered resume and cover letter assistant using OpenAI models.
+- 🔭 Currently building **Jobs.ai** – an AI-powered resume and cover letter assistant using OpenAI models and R.A.G concepts.
 - 🌱 Exploring **Generative AI** for **sustainability-focused hackathons**.
 - 💡 Passionate about **backend engineering**, **distributed systems**, and **scalable architectures**.
 - 🎯 Looking for a **Summer 2025 Software Engineering Internship**.
@@ -12,6 +12,9 @@ I'm a **Graduate Student** pursuing an **MSc in Computer Science** at *Californi
 
 ### 🛠️ Tech Stack
 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -24,14 +27,20 @@ I'm a **Graduate Student** pursuing an **MSc in Computer Science** at *Californi
 ---
 
 ### 📌 Projects
-- **[Jobs.ai](https://github.com/daipayan-hati/jobs-ai)** – AI-powered resume & cover letter assistant.
+- **[Jobs.ai](https://github.com/Neilketchum/jobs-ai)** – AI-powered resume & cover letter assistant. [Live Demo](#)
+- **[FashionMoods.AI](https://github.com/Neilketchum/fashionmoods-ai)** – AI-powered outfit recommendations based on trends and moods. [Live Demo](https://fashion-mood-frontend.web.app/)
+- **[Sikkim News](https://github.com/Neilketchum/sikkim-news)** – A full-stack news blog built with Next.js and Strapi CMS. [Live Demo](https://thesikkimnews.com/)
+- **[Cardiovascular Disease Prediction](https://www.ijaresm.com/uploaded_files/document_file/Ramya_Kodalik0C4.pdf)** – Machine learning project predicting heart disease with 80% accuracy. [Publication](https://www.ijaresm.com/uploaded_files/document_file/Ramya_Kodalik0C4.pdf)
 
 ---
 
 ### 📫 Get in Touch
-- 📧 Email: [hati.daipayan@gmail.com](mailto:hati.daipayan@gmail.com)
+- 📧 Email: [daipayanh@gmail.com](mailto:daipayanh@gmail.com)
+- 📞 Phone: +1 (510)-826-8530
+- 🌍 Location: Hayward, California
 - 💼 LinkedIn: [linkedin.com/in/daipayan-hati](https://www.linkedin.com/in/daipayan-hati/)
-- 🏗️ Portfolio: [daipayanhati.com](https://www.daipayanhati.com)
+- 🏗️ Portfolio: [www.daipayanhati.com](https://www.daipayanhati.com)
+- 🖥️ GitHub: [github.com/Neilketchum](https://github.com/Neilketchum)
 
 ---
 
