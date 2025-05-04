@@ -7,7 +7,20 @@ I'm a **Graduate Student** pursuing an **MSc in Computer Science** at *Californi
 - 💡 Passionate about **backend engineering**, **distributed systems**, and **Artifical Intelligence**.
 
 ---
-![snake gif](https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg)
+## 🔥 My GitHub Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=neilketchum&theme=tokyonight&hide_border=true)
+
+![Neil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=neilketchum&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neilketchum&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 🐍 Contribution Graph Animation
+
+![Snake animation](https://github.com/neilketchum/neilketchum/blob/output/github-contribution-grid-snake.svg)
+r-username/blob/output/github-contribution-grid-snake.svg)
 
 
 ### 🛠️ Tech Stack
@@ -38,6 +51,7 @@ I'm a **Graduate Student** pursuing an **MSc in Computer Science** at *Californi
 - **[Cardiovascular Disease Prediction](https://www.ijaresm.com/uploaded_files/document_file/Ramya_Kodalik0C4.pdf)** – Machine learning project predicting heart disease with 80% accuracy. [Publication](https://www.ijaresm.com/uploaded_files/document_file/Ramya_Kodalik0C4.pdf)
 
 ---
+
 
 ### 📫 Get in Touch
 - 📧 Email: [daipayanh@gmail.com](mailto:daipayanh@gmail.com)
