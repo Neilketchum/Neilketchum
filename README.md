@@ -4,8 +4,7 @@
 I'm a **Graduate Student** pursuing an **MSc in Computer Science** at *California State University, East Bay*. With a strong **software engineering** background, I've worked at **Dell Technologies, Kapture CRM, and Nomura Research Institute**, and currently, I'm currently working as an **Application Engineer at the University of Phoenix**. My expertise spans **full-stack development**, **cloud computing**, and **AI/ML**.
 
 - 🔭 Currently building **Jobs.ai** – an AI-powered resume and cover letter assistant using OpenAI models and R.A.G concepts.
-- 💡 Passionate about **backend engineering**, **distributed systems**, and **scalable architectures**.
-- 🎯 Looking for a **Summer 2025 Software Engineering Internship**.
+- 💡 Passionate about **backend engineering**, **distributed systems**, and **Artifical Intelligence**.
 
 ---
 
