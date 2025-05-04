@@ -7,6 +7,8 @@ I'm a **Graduate Student** pursuing an **MSc in Computer Science** at *Californi
 - 💡 Passionate about **backend engineering**, **distributed systems**, and **Artifical Intelligence**.
 
 ---
+![snake gif](https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg)
+
 
 ### 🛠️ Tech Stack
 
