@@ -10,9 +10,6 @@ I'm a **Graduate Student** pursuing an **MSc in Computer Science** at *Californi
 ## 🔥 My GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=neilketchum&theme=tokyonight&hide_border=true)
-
-![Neil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=neilketchum&show_icons=true&theme=tokyonight&hide_border=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neilketchum&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
