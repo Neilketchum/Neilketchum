@@ -1,10 +1,12 @@
 ## 👋 Hey there, I'm Daipayan Hati!
 
 ### 🚀 About Me
-I'm a **Graduate Student** pursuing an **MSc in Computer Science** at *California State University, East Bay*. With a strong **software engineering** background, I've worked at **Dell Technologies, Kapture CRM, and Nomura Research Institute**, and currently, I'm currently working as an **Application Engineer at the University of Phoenix**. My expertise spans **full-stack development**, **cloud computing**, and **AI/ML**.
-
-- 🔭 Currently building **Jobs.ai** – an AI-powered resume and cover letter assistant using OpenAI models and R.A.G concepts.
-- 💡 Passionate about **backend engineering**, **distributed systems**, and **Artifical Intelligence**.
+Software Engineer with 4+ years of experience building scalable distributed systems, microservices, and AI-powered applications
+across fintech, enterprise SaaS, and startups. Proven track record of delivering high-throughput, fault-tolerant systems using
+technologies like Spring Boot, Kafka, AWS, and Terraform, and driving measurable impact through performance optimization
+and automation. Recently focused on LLM-based systems, RAG pipelines, and NLP, building AI-driven products that streamline
+complex business workflows and improve user experience. Experienced in end-to-end ownership, from system design to
+production deployment, with strong collaboration across product and engineering teams.
 
 ---
 ## 🔥 My GitHub Stats
